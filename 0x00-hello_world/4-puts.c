@@ -1,15 +1,13 @@
 #include <stdio.h>
 
 
-/*
- *main : Entry point Function
+/**
+ *main - Entry point Function
  *
- *Description : Function return nothing
+ *Description: Function return nothing here
  *
- *Return : Integer return type
+ *Return: 0 Always
  */
-
-
 int main(void)
 {
 char a[] = "\"Programming is like building a multilingual puzzle";
