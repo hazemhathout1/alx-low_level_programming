@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+
+/**
+*main - Entry point Function
+*
+*description: Function return nothing
+*
+*Return: Integer return type
+*/
+int main(void)
+{
+return (0);
+}
