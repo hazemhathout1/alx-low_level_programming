@@ -16,7 +16,8 @@ int main(void)
 int x = 97;
 while (x != 123)
 {
-printf("%c\n", x);
+putchar(x);
+putchar('\n');
 x++;
 }
 }
