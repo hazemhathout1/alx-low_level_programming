@@ -17,7 +17,7 @@ int x = 97;
 while (x != 123)
 {
 putchar(x);
-putchar('\n');
 x++;
 }
+putchar('\n');
 }
