@@ -1,0 +1,29 @@
+#include <stdlib.h>
+#include <time.h>
+#include <stdio.h>
+/* more headers goes there */
+
+/* betty style doc for function main goes there */
+/**
+ *main - Entry point Function
+ *
+ *Description: Function return nothing here
+ *
+ *Return: 0 Always
+ */
+int main(void)
+{
+int i = 48;
+int x = 44;
+int y = 32;
+while (i < 58)
+{
+putchar(i);
+if (i == 57) break;
+putchar(x);
+putchar(y);
+i++;
+}
+putchar('\n');
+return (0);
+}
