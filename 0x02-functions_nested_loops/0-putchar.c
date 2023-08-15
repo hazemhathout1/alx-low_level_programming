@@ -19,5 +19,6 @@ while (x[c] != '\0')
 putchar(x[c]);
 c++;
 }
+ putchar("\n");
 return (0);
 }
