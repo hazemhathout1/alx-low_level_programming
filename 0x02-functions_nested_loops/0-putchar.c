@@ -12,7 +12,7 @@
  */
 int main(void)
 {
-char x[] = "Hazem";
+char x[] = "_putchar";
 int c = 0;
 while (x[c] != '\0')
 {
